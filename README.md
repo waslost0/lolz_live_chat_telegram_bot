@@ -1,7 +1,7 @@
 # lolz_live_chat_telegram_bot
 Lolz Live chat telegram bot / Lolz лайв чат в телеграм боте
 
-[comment]: <> (<img src="https://i.imgur.com/9i8EX9V.png" alt="image" height="700"></img>)
+<img src="https://i.imgur.com/9i8EX9V.png" alt="image" height="700"></img>
 
 ## Requirements
 - Python 3.8
